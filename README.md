@@ -114,7 +114,11 @@ The Root Insurance enforcement action provides a compelling case study on the in
 
 For legal and compliance professionals, the Assurance sets a strong precedent regarding what regulators view as “reasonable safeguards” under state privacy statutes. For security engineers, it reinforces the need for architectural security and adversarial thinking when designing consumer-facing platforms.
 
-This matter should be closely studied by any organization operating in a regulated space, particularly those that rely on third-party data enrichment services or API-based customer experiences.
+## Resources
+
+Learn more from the NY press release and prior auto actions: https://lnkd.in/g9_aaw7T
+Information about best practices under the NY Shield Act: https://lnkd.in/gJKYa2Tb
+Information about MA's standards for the protection of personal information: https://lnkd.in/g_TRhppj
 
 Author: Ramyar Daneshgar
 Security Engineer & Legal Policy Researcher at CybersecurityAttorney.com
