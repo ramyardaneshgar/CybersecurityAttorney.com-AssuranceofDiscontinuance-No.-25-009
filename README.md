@@ -116,9 +116,9 @@ For legal and compliance professionals, the Assurance sets a strong precedent re
 
 ## Resources
 
-Learn more from the NY press release and prior auto actions: https://lnkd.in/g9_aaw7T
-Information about best practices under the NY Shield Act: https://lnkd.in/gJKYa2Tb
-Information about MA's standards for the protection of personal information: https://lnkd.in/g_TRhppj
+- Learn more from the NY press release and prior auto actions: https://lnkd.in/g9_aaw7T
+- Information about best practices under the NY Shield Act: https://lnkd.in/gJKYa2Tb
+- Information about MA's standards for the protection of personal information: https://lnkd.in/g_TRhppj
 
 Author: Ramyar Daneshgar
 Security Engineer & Legal Policy Researcher at CybersecurityAttorney.com
